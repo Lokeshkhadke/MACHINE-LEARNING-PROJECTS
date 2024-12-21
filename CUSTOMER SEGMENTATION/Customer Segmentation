@@ -1,0 +1,1 @@
+This project applies K-Means Clustering to segment customers based on Annual Income and Spending Score. The goal is to identify distinct customer groups for targeted marketing. The optimal number of clusters was determined using the Elbow Method and KneeLocator, resulting in 5 customer segments.
